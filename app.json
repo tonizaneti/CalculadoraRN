@@ -1,0 +1,12 @@
+{
+  "name": "calculatorApp2",
+  "displayName": "calculatorApp2",
+  "expo": {
+    "name": "calculatorApp2",
+    "slug": "calculatorApp2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
